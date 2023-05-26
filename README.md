@@ -1,2 +1,2 @@
 # EIA860NamingSolution
-We will place our python solution here 
+Are solution is in EIA860NamingSolutionScript
